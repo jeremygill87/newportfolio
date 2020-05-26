@@ -18,8 +18,7 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portfolio</h3>
                 <p className="subtitle-a">
-                  Incididunt nostrud id aute culpa excepteur pariatur consequat
-                  elit culpa nulla enim anim incididunt.
+                  Different websites, apps, and systems I have made
                 </p>
                 <div className="line-mf"></div>
               </div>

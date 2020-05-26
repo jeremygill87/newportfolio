@@ -21,7 +21,7 @@ class Contact extends React.Component {
                       </div>
                       <div>
                         <form
-                          action="https://formspree.io/xdoeonlo"
+                          action="https://formspree.io/mjvayrqg"
                           method="POST"
                           className="contactForm"
                         >
@@ -67,7 +67,7 @@ class Contact extends React.Component {
                                   id="subject"
                                   placeholder="Subject"
                                   data-rule="minlen:4"
-                                  data-msg="Please enter at least 8 chars of subject"
+                                  data-msg="Please enter a subject"
                                 />
                                 <div className="validation"></div>
                               </div>
@@ -79,7 +79,7 @@ class Contact extends React.Component {
                                   name="message"
                                   rows="5"
                                   data-rule="required"
-                                  data-msg="Please write something for us"
+                                  data-msg="Please write something."
                                   placeholder="Message"
                                 ></textarea>
                                 <div className="validation"></div>
@@ -103,34 +103,20 @@ class Contact extends React.Component {
                       </div>
                       <div className="more-info">
                         <p className="lead">
-                          Whether you want to get in touch, talk about a project
-                          collaboration, or just say hi, I'd love to hear from
-                          you.
+                          Reach out.  I would love to hear from you.
                           <br />
-                          Simply fill the from and send me an email.
                         </p>
-                        {/* <!-- <ul class="list-ico">
-                                <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                <li><span class="ion-email"></span> contact@example.com</li>
-                                </ul> --> */}
+                         <ul class="list-ico">
+                                <li><span class="ion-ios-location"></span> New York, New York 11225</li>
+                                <li><span class="ion-ios-telephone"></span> (304) 376-4331</li>
+                                <li><span class="ion-email"></span> jeremygill87@gmail.com</li>
+                                </ul>
                       </div>
                       <div className="socials">
                         <ul>
                           <li>
                             <a
-                              href=""
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
-                              <span className="ico-circle">
-                                <i className="ion-social-codepen"></i>
-                              </span>
-                            </a>
-                          </li>
-                          <li>
-                            <a
-                              href=""
+                              href="https://github.com/jeremygill87"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +127,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/jeremy-gill-22116b96/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
