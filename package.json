@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jeremygill87.github.io/newportfolio",
+  "homepage": "https://jeremygill87.github.io/newportfolio/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
