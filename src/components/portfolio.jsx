@@ -43,7 +43,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Baggage</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Social Networking site using React, Javascript, MongoDB, and Mongoose
+                            Social Networking site using React, Javascript, MongoDB, and Mongoose (Currently undergoing maintenance)
                           </span>
                         </div>
                       </div>
