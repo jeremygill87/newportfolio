@@ -7,6 +7,7 @@ import checkout from "../img/checkout.png";
 import baggage from "../img/baggage.jpg";
 import underthink from "../img/underthinkv3.png";
 import burger from "../img/burger.jpg";
+import hangman from "../img/hangman.png";
 import stock from "../img/image1.jpg";
 import stock1 from "../img/image2.jpg";
 import stock2 from "../img/image3.jpg";
@@ -33,17 +34,17 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://jeremygill87.github.io/Baggage/">
+                <a href="https://jeremygill87.github.io/reacthangman/">
                   <div className="work-img">
-                    <img src={baggage} alt="" className="img-fluid" />
+                    <img src={hangman} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Baggage</h2>
+                        <h2 className="w-title">Hangman</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Social Networking site using React, Javascript, MongoDB, and Mongoose (Currently undergoing maintenance)
+                            Classic Hangman game built with React and Bootstrap
                           </span>
                         </div>
                       </div>
