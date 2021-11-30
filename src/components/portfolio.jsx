@@ -101,7 +101,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://github.com/jeremygill87/bamazon">
+                <a href="https://www.youtube.com/watch?v=KuCyatluYr8&list=PL6A0JK15PZw4ZYtHcLa_mjgEcVeVDosHH">
                   <div className="work-img">
                     <img src={checkout} alt="" className="img-fluid" />
                   </div>
@@ -111,7 +111,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Bamazon</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Amazon-style storefront and inventory management system using Node and MySQL.  Video demonstration in the README.
+                            Amazon-style storefront and inventory management system using Node and MySQL.  Video Demonstration with Youtube.
                           </span>
                         </div>
                       </div>
