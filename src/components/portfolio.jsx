@@ -6,7 +6,7 @@ import marvel from "../img/marvel.jpg";
 import checkout from "../img/checkout.png";
 import baggage from "../img/baggage.jpg";
 import underthink from "../img/underthinkv3.png";
-import burger from "../img/burger.jpg";
+import crystal from "../img/crystals.jpg";
 import hangman from "../img/hangman.png";
 import stock from "../img/image1.jpg";
 import stock1 from "../img/image2.jpg";
@@ -145,17 +145,17 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://github.com/jeremygill87/burger">
+                <a href="https://jeremygill87.github.io/crystal-clicker/">
                   <div className="work-img">
-                    <img src={burger} alt="" className="img-fluid" />
+                    <img src={crystal} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Burger</h2>
+                        <h2 className="w-title">Crystal Clicker</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Burger logging app using Node, Handlebars, MySQL, Express, and ORMs.
+                            Math Game.  Click the crystals to reach the total...but don't go over!
                           </span>
                         </div>
                       </div>
