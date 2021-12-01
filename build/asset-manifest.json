@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/newportfolio/static/css/main.79b74d46.chunk.css",
+    "main.js": "/newportfolio/static/js/main.c7a553ab.chunk.js",
+    "main.js.map": "/newportfolio/static/js/main.c7a553ab.chunk.js.map",
+    "runtime-main.js": "/newportfolio/static/js/runtime-main.f1e491f4.js",
+    "runtime-main.js.map": "/newportfolio/static/js/runtime-main.f1e491f4.js.map",
+    "static/css/2.242f24fe.chunk.css": "/newportfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.fdadf5b5.chunk.js": "/newportfolio/static/js/2.fdadf5b5.chunk.js",
+    "static/js/2.fdadf5b5.chunk.js.map": "/newportfolio/static/js/2.fdadf5b5.chunk.js.map",
+    "index.html": "/newportfolio/index.html",
+    "precache-manifest.ab22979dcfdbac0dffddef5fef68cb44.js": "/newportfolio/precache-manifest.ab22979dcfdbac0dffddef5fef68cb44.js",
+    "service-worker.js": "/newportfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/newportfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.79b74d46.chunk.css.map": "/newportfolio/static/css/main.79b74d46.chunk.css.map",
+    "static/js/2.fdadf5b5.chunk.js.LICENSE": "/newportfolio/static/js/2.fdadf5b5.chunk.js.LICENSE",
+    "static/media/baggage.jpg": "/newportfolio/static/media/baggage.f1227898.jpg",
+    "static/media/burger.jpg": "/newportfolio/static/media/burger.4403000a.jpg",
+    "static/media/earth.jpg": "/newportfolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/newportfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/newportfolio/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/newportfolio/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/newportfolio/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/newportfolio/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/newportfolio/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/newportfolio/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/newportfolio/static/media/ionicons.621bd386.svg",
+    "static/media/marvel.jpg": "/newportfolio/static/media/marvel.d77e20cc.jpg",
+    "static/media/me.jpg": "/newportfolio/static/media/me.edac7f9a.jpg",
+    "static/media/myAvatar.png": "/newportfolio/static/media/myAvatar.91d3bcdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1e491f4.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.fdadf5b5.chunk.js",
+    "static/css/main.79b74d46.chunk.css",
+    "static/js/main.c7a553ab.chunk.js"
+  ]
+}
